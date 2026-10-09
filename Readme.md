@@ -61,3 +61,53 @@ Goals for next meeting:
 
 -------------
 Next Meeting: ~1pm Friday Wk3 (Tentative)
+
+
+
+
+
+
+
+
+
+Meeting 2: 02/10/2026 (Wk3 Friday)
+
+Start: 13:00 PM
+Finish: 13:55 PM
+
+Present: All
+Absent: None
+
+--------------
+Agenda:
+- Discussed what data to use and how to sort the data into a single set
+
+--------------
+Plan:
+- Michael writing a Jupyter program to automatically sort and merge the data
+- Valerii starting data analysis (plotting and trying to find patterns) using a hand-sorted dataset
+- Issue with GitHub: pushing/pulling from different sources to the same repo gives an error
+
+
+
+
+
+
+Meeting 3: 09/10/2026 (Wk4 Friday)
+
+Start: 12:30 PM
+Finish: 13:51 PM
+
+Present: All
+Absent: None
+
+--------------
+Agenda
+- Discussed the issue with Fe/H and Age inconsistency among the Krause/vB datasets
+- Michael's program to merge the data in a standardised format
+- Found a paper that discusses how to classify accreted/in-situ clusters based on Age-metallicity and dynamical information
+
+--------------
+Plan:
+- Michael to continue with dataset processing, trying to investigate which set has more accurate age/metallicity (and averaging the different values)
+- Valerii to continue with data analysis
