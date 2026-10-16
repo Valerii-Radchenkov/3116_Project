@@ -111,3 +111,9 @@ Agenda
 Plan:
 - Michael to continue with dataset processing, trying to investigate which set has more accurate age/metallicity (and averaging the different values)
 - Valerii to continue with data analysis
+
+
+
+
+
+Meeting 4: 16/10/2026 (Wk5 Friday)
