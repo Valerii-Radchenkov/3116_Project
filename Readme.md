@@ -111,7 +111,38 @@ Absent: None
 --------------
 ## Meeting 4: 16/10/2026 (Wk5 Friday)
 
+Start: 13:00 PM
+Finish: 13:40 PM
+
+Present: All
+Absent: None
+
+--------------
+### Agenda
+- Discuss the Belokurov paper and their method based on total energy and angular momentum
+- Discuss what are the implications of the in-situ/accreted classification for the galaxy evolution
+
+--------------
+### Plan:
+- Continue working on analysis and slides/markdown, record the video in week 6 meeting.
+- Ask Finn Pal and/or Jesse about using the Gaia EDR3 dataset
+
 
 --------------
 --------------
 ## Meeting 5: 22/10/2026 (Wk6 Thursday)
+
+Start: 13:00 PM
+Finish: 14:30 PM
+
+Present: All
+Absent: None
+
+--------------
+### Agenda
+- Record the final assignment video
+
+--------------
+### Plan:
+- ??
+
