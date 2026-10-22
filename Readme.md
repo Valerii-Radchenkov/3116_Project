@@ -64,12 +64,9 @@ Next Meeting: ~1pm Friday Wk3 (Tentative)
 
 
 
-
-
-
-
-
-
+------------
+------------
+------------
 Meeting 2: 02/10/2026 (Wk3 Friday)
 
 Start: 13:00 PM
