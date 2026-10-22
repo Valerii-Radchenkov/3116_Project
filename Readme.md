@@ -1,5 +1,5 @@
-PHYS3116 Group Assignment Meeting Minutes.
-Meeting 1: 25/09/2026 (Wk2 Friday)
+# PHYS3116 Group Assignment Meeting Minutes.
+## Meeting 1: 25/09/2026 (Wk2 Friday)
 
 Start: 12:00 PM
 Finish: 12:57 PM
@@ -8,13 +8,13 @@ Present: All
 Absent: None
 
 ---------------
-Agenda: 
+### Agenda:
 - Choose task option (Option 1 chosen)
 - Come up with a general plan for our approach
 - Come up with any questions on the assignment to ask during tut
 
 ---------------
-Plan: (initial)
+### Plan: (initial)
 
 Data is stored across multiple data sets each with a different format and different information stored.
 
@@ -27,7 +27,7 @@ Alternatively we may need to use separate approaches for each data set (continge
 Some entries are missing certain data values -> Need to write a script that filters out objects that don't have all the relevant data that we want.
 
 --------------
-Plan: (revised)
+### Plan: (revised)
 
 1) Identify relevant data within available sets.
 2) Write functions to extrapolate data we want for analysis
@@ -35,7 +35,7 @@ Plan: (revised)
 
 
 --------------
-Questions for tutorial:
+### Questions for tutorial:
 
 q1 - Giving markers access to GitHub.
 q2 - There is a Moodle forum for meeting minutes but assignment says to upload to GitHub. Figure out where to post meeting minutes (Moodle, GitHub, both?)
@@ -45,7 +45,7 @@ q5 - How many meetings are we expected to have (Assignment says at least 3 meeti
 
 
 ---------------
-Tasks to do:
+### Tasks to do:
 (All)
 - Ask tut questions
 - Come up with tests that we want to run to analyse the clusters (position test, metallicity test, etc)
@@ -66,8 +66,7 @@ Next Meeting: ~1pm Friday Wk3 (Tentative)
 
 ------------
 ------------
-------------
-Meeting 2: 02/10/2026 (Wk3 Friday)
+## Meeting 2: 02/10/2026 (Wk3 Friday)
 
 Start: 13:00 PM
 Finish: 13:55 PM
@@ -76,19 +75,19 @@ Present: All
 Absent: None
 
 --------------
-Agenda:
+### Agenda:
 - Discussed what data to use and how to sort the data into a single set
 
 --------------
-Plan:
+### Plan:
 - Michael writing a Jupyter program to automatically sort and merge the data
 - Valerii starting data analysis (plotting and trying to find patterns) using a hand-sorted dataset
 - Issue with GitHub: pushing/pulling from different sources to the same repo gives an error
 
 
-=============
-=============
-Meeting 3: 09/10/2026 (Wk4 Friday)
+--------------
+--------------
+## Meeting 3: 09/10/2026 (Wk4 Friday)
 
 Start: 12:30 PM
 Finish: 13:51 PM
@@ -97,16 +96,22 @@ Present: All
 Absent: None
 
 --------------
-Agenda
+### Agenda
 - Discussed the issue with Fe/H and Age inconsistency among the Krause/vB datasets
 - Michael's program to merge the data in a standardised format
 - Found a paper that discusses how to classify accreted/in-situ clusters based on Age-metallicity and dynamical information
 
 --------------
-Plan:
+### Plan:
 - Michael to continue with dataset processing, trying to investigate which set has more accurate age/metallicity (and averaging the different values)
 - Valerii to continue with data analysis
 
-==============
-==============
-Meeting 4: 16/10/2026 (Wk5 Friday)
+
+--------------
+--------------
+## Meeting 4: 16/10/2026 (Wk5 Friday)
+
+
+--------------
+--------------
+## Meeting 5: 22/10/2026 (Wk6 Thursday)
